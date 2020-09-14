@@ -1,3 +1,0 @@
-1.In lambda model
-	why number of k-points =30,  even though num_steps = 20?
-	num_kpt = 30   
